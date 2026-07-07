@@ -1,0 +1,20 @@
+*.prtextstyle
+out/
+font_mapping.json
+scratchpad/
+*.drfx
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+Adobe Premiere Pro Auto-Save/
+*.prproj
+*.xml
+.claude/
+
+!tests/data/*.prtextstyle
+.venv/
+
+uv.lock
+*.egg-info
